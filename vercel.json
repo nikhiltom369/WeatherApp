@@ -12,16 +12,3 @@
     }
   ]
 }
-    }
-  ],
-  "routes": [
-    {
-      "src": "/static/(.*)",
-      "dest": "/static/$1"
-    },
-    {
-      "src": "/(.*)",
-      "dest": "WeatherProject/WeatherProject/wsgi.py"
-    }
-  ]
-}
