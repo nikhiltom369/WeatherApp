@@ -22,10 +22,10 @@ A simple weather application built with Django that displays current weather con
 - Python 3.8 or higher
 - pip (Python package manager)
 
-### Step 1: Clone the Repository
+Clone the Repository
 ```bash- git clone https://github.com/yourusername/django-weather-app.git- cd django-weather-app
  
-### Step 2: Set Up Virtual Environment
+Set Up Virtual Environment
 # Install virtualenv
 pip install virtualenv
 
